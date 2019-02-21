@@ -1,0 +1,4 @@
+name: Example of Menu alter module
+description: Alter Pathmodule
+type: module
+core: 8.x
